@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Yarina Laufer – Avocat de elită în dreptul afacerilorCu o vastă experiență
-      în domeniul juridic
+    title: "Yarina Laufer\_ Avocat de elită în dreptul afacerilorCu o vastă experiență în domeniul juridic"
     subtitle: >-
       Yarina Laufer este un avocat de renume, specializat în dreptul afacerilor,
       achiziții publice și soluționarea disputelor comerciale. De-a lungul
