@@ -15,33 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       Yarina Laufer – Avocat de elită în dreptul afacerilorCu o vastă experiență
-      în domeniul juridic, Yarina Laufer este un avocat de renume, specializat
-      în dreptul afacerilor, achiziții publice și soluționarea disputelor
-      comerciale. De-a lungul carierei sale, a oferit consultanță strategică
-      unor companii de top, asigurând conformitatea juridică și protejând
-      interesele clienților săi în fața provocărilor legislative și
-      comerciale.Expertiză și competențeYarina are o abordare pragmatică și
-      orientată spre soluții, punând accent pe:Achiziții publice și contracte
-      comerciale – oferind asistență juridică în proceduri de achiziții publice,
-      inclusiv în fața autorităților contractante și instanțelor de contencios
-      administrativ;Dreptul societar și fuziuni & achiziții – consiliind
-      companii în tranzacții complexe, restructurări și conformitate
-      legislativă;Litigii și arbitraj – reprezentând clienți în litigii
-      comerciale, administrative și în fața instanțelor naționale și
-      internaționale;Dreptul proprietății intelectuale – protejând și gestionând
-      portofolii de mărci și drepturi de autor în diverse industrii.O carieră
-      construită pe excelențăCu un parcurs profesional impresionant, Yarina a
-      colaborat cu firme de avocatură de prestigiu și a gestionat cazuri
-      complexe cu impact semnificativ în mediul de afaceri. Implicarea sa în
-      proiecte internaționale, precum și colaborarea strânsă cu autoritățile de
-      reglementare, o recomandă drept un expert de încredere.Abordare
-      personalizată și strategie inovatoarePrin înțelegerea profundă a
-      contextului economic și juridic, Yarina oferă soluții inovatoare adaptate
-      fiecărui client. Rigoarea profesională și pasiunea pentru drept fac din ea
-      un partener valoros pentru orice companie care dorește să navigheze cu
-      succes prin complexitatea legislației moderne.Pentru consultanță juridică
-      specializată, contactează Yarina Laufer și beneficiază de expertiza sa în
-      domeniul juridic și afaceri.
+      în domeniul juridic
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
