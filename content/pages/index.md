@@ -55,7 +55,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        alignItems: flex-start
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row-reverse
       title:
