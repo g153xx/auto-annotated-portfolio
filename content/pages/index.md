@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Yarina Laufer - Avocat
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
