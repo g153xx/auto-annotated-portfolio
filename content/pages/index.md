@@ -68,7 +68,16 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /contact
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     text: >+
       Pentru consultanță juridică specializată, contactează Yarina Laufer și
       beneficiază de expertiza sa în domeniul juridic și afaceri.
