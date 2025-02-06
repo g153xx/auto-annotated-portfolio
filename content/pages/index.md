@@ -68,6 +68,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >+
+      Pentru consultanță juridică specializată, contactează Yarina Laufer și
+      beneficiază de expertiza sa în domeniul juridic și afaceri.
+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
