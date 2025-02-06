@@ -56,7 +56,7 @@ sections:
           - pl-4
           - pr-4
         alignItems: flex-end
-        justifyContent: center
+        justifyContent: flex-start
         flexDirection: row-reverse
       title:
         textAlign: left
