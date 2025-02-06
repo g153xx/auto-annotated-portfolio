@@ -58,6 +58,7 @@ sections:
         alignItems: flex-start
         justifyContent: flex-start
         flexDirection: row-reverse
+        borderWidth: 2
       title:
         textAlign: left
       subtitle:
