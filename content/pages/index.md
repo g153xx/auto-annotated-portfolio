@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Yarina Laufer
+    title: 'Yarina Laufer, AVOCAT'
     subtitle: >-
       Yarina Laufer este un avocat de renume, specializat în dreptul afacerilor,
       achiziții publice și soluționarea disputelor comerciale. De-a lungul
